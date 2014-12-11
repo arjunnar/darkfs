@@ -1,0 +1,4 @@
+client/
+filestore/
+*.pyc
+*.secret
